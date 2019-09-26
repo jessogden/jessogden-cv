@@ -1,23 +1,18 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Jessica</strong> Ogden
+description: PhD Candidate, University of Southampton, UK
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: prof_pic.png
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an anthropologist, STS and critical informatics scholar of digital cultures, labour and the everyday politics embedded in the construction of data and information. My PhD took an ethnographic approach to understanding organisational and community-based efforts to archive the Web -- in web archives -- through the investigation of three case studies through the lens of infrastructure, culture and politics. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have an MSc in Web Science (Electronics and Computer Science) and an MSc in Archaeological Computing (Archaeology) from the University of Southampton in Southampton, UK and a BA in Anthropology from Centre College, Kentucky, USA. My PhD in Web Science (expected 2019) is based in the Department of Sociology, Social Policy and Criminology and the Web Science Centre of Doctoral Training at the University of Southampton.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

@@ -6,6 +6,9 @@ a {
         color: $theme-color;
         text-decoration: none;
     }
+	&:active {
+		color: $theme-color;
+	}
 }
 
 article a, .news a {
