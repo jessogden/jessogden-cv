@@ -17,7 +17,7 @@ I am an anthropologist, STS and critical informatics scholar of digital culture,
 <ul>
 	<li>web/data archiving as an organising site for community construction, activism and the creation of sociotechnical imaginaries for social change</li>
 	<li>post-colonial and feminist perspectives on digital inclusion and questions of representation in the creation and use of data archives</li>
-	<li>the impact of data infrastructures on social science research methodologies and claims</li>
+	<li>ethics and the impact of data infrastructures on social science research methodologies and claims</li>
 </ul>
 
 I have an MSc in Web Science (Electronics and Computer Science) and an MSc in Archaeological Computing (Archaeology) from the University of Southampton in Southampton, UK and a BA in Anthropology from Centre College, Kentucky, USA. My PhD in Web Science (expected 2019) is based in the Department of Sociology, Social Policy and Criminology and the Web Science Centre of Doctoral Training at the University of Southampton.
