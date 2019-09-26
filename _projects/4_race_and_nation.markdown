@@ -15,7 +15,7 @@ img: /assets/img/RT-network-racenation.png
 
 <h4>Collaboration</h4>
 
-In collaboration with Dr. Bindi Shaw (University of Southampton) and Dr. Justin Murphy (University of Southampton), the project investigated the online construction of nationhood as exhibited through Twitter debates in 2 million tweets around Romanian and Bulgarian UK migration. The following is and excerpt taken from an extended abstract that was co-authored and presented at the Social Media and Society Conference, 2016.
+In collaboration with Dr. Bindi Shaw (University of Southampton) and Dr. Justin Murphy (University of Southampton), the project investigated the online construction of nationhood as exhibited through Twitter debates in 2 million tweets around Romanian and Bulgarian UK migration. The following is an excerpt taken from an extended abstract that was co-authored and presented at the Social Media and Society Conference, 2016.
 
 <h4>Project Abstract</h4>
 

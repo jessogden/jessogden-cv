@@ -10,7 +10,7 @@ img: /assets/img/eot-transitions-3.jpg
     <img class="col one left" src="{{ site.baseurl }}/assets/img/eot-transitions-2.png" alt="" title="Whitehouse.gov in the Wayback Machine"/>
 </div>
 <div class="col three caption">
-    President Obama and the President Elect (left) and Whitehouse.gov in the Wayback Machine (right).
+    (Left) President Obama and the President Elect, and (Right) Whitehouse.gov in the Wayback Machine.
 </div>
 
 <h4>Archives Unleashed 3.0, The Internet Archive</h4>
