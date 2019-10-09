@@ -21,7 +21,7 @@ img: /assets/img/iknowwhatyouhid-1.png
 <ul>
 	<li><a href="http://www.pages.drexel.edu/~mrk335/">Mat Kelly</a> (Old Dominion University)</li>
 	<li>Jessica Ogden (University of Southampton)</li>
-	<li><a href="https://www.ecs.soton.ac.uk/people/rt1r13">Dr. Ramine Tinati</a> (University of Southampton)</li>
+	<li><a href="https://www.ecs.soton.ac.uk/people/rt1r13">Ramine Tinati</a> (University of Southampton)</li>
 	<li><a href="https://www.ecs.soton.ac.uk/people/nt4g14">Nikko Tsakalakis</a> (University of Southampton)</li>
 	<li><a href="https://shawnw.io/">Shawn Walker</a> (University of Washington)</li>
 </ul>
