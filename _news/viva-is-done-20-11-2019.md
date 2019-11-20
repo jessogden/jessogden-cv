@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Viva
-date: 2019-20-11 15:59:00-0400
+date: 2019-20-11 15:59:00
 inline: false
 ---
 
