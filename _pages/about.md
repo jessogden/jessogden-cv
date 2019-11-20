@@ -12,13 +12,7 @@ news: true
 social: true
 ---
 
-I am an anthropologist, STS and critical informatics scholar of digital culture, data politics and the Web. My research centres around the everyday politics embedded in the construction of data, the past, and the sociotechnical infrastructures that support knowledge claims about the Web. Recently my research has focused on three intersecting strands of interest:
-
-<ul>
-	<li>web/data archiving as an organising site for community construction, activism and the creation of sociotechnical imaginaries for the Web</li>
-	<li>post-colonial and feminist perspectives on digital inclusion and questions of representation in the creation and use of data archives</li>
-	<li>ethics and the impact of data infrastructures on social science research methodologies and claims</li>
-</ul>
+I am a social scientist and critical informatics scholar of digital culture, data politics and the Web. My research centres around the everyday power and politics embedded in the construction of the Web's past. My research experience cross-cuts several domains and subject areas related to the ways in which digital culture, media and knowledge are constructed and represented online, as well as the broad implications these have for contemporary and future digital scholarship.
 
 I have a MSc in Web Science and a MSc in Archaeological Computing from the University of Southampton in Southampton, UK and a BA in Anthropology from Centre College, Kentucky, USA. My PhD in Web Science (expected 2019) is based in the Department of Sociology, Social Policy and Criminology and the Web Science Centre of Doctoral Training at the University of Southampton.
 
